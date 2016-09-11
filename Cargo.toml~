@@ -1,5 +1,0 @@
-[package]
-
-name = "ARM_emulator"
-version = "0.0.1"
-authors = [ "Todd Davies <todd434@gmail.com>" ]
